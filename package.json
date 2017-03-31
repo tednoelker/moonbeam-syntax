@@ -1,7 +1,7 @@
 {
   "name": "moonbeam-syntax",
   "theme": "syntax",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "A dark, high-contrast ATOM theme.",
   "keywords": [
     "syntax",
@@ -10,7 +10,7 @@
     "high",
     "contrast"
   ],
-  "repository": "https://github.com/atom/moonbeam-syntax",
+  "repository": "https://github.com/tednoelker/moonbeam-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
